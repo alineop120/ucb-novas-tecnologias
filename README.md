@@ -10,8 +10,8 @@ O principal objetivo deste repositório é centralizar os materiais da disciplin
 
 Este repositório está dividido em pastas para facilitar o acesso aos conteúdos e atividades. A estrutura atual é a seguinte:
 
-- **Conteúdos**[https://github.com/alineop120/ucb-aulas-novas-tecnologias]: Material de apoio e recursos sobre os tópicos abordados em aula com os exemplos utilizados nas aulas
-- **Lista de Exercícios**[https://github.com/alineop120/ucb-exercicios-novas-tecnologias]: Listas de exercícios para fixação e prática.
+- **[Conteúdos](https://github.com/alineop120/ucb-aulas-novas-tecnologias)**: Material de apoio e recursos sobre os tópicos abordados em aula com os exemplos utilizados nas aulas
+- **[Lista de Exercícios](https://github.com/alineop120/ucb-exercicios-novas-tecnologias)**: Listas de exercícios para fixação e prática.
 
 ---
 
